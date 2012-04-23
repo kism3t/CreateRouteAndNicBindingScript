@@ -38,12 +38,12 @@ svnSsbDisoDeString = "svn.ssb-diso.de"
 svnSsbDisoDeIp = "10.2.137.65"
 
 ssbsHp2SsbDisoDeFound = 1
-ssbsHp2SsbDisoDeString = "svn.ssb-diso.de"
+ssbsHp2SsbDisoDeString = "ssb-hp2.ssb-diso.de"
 ssbsHp2SsbDisoDeIp = "10.2.137.65"
 
 nexusSsbDisoDeFound = 1
 nexusSsbDisoDeString = "nexus.ssb-diso.de"
-nexusSsbDisoDeIp = "10.2.137.65"
+nexusSsbDisoDeIp = "10.2.137.54"
 
 jupiterFound = 1
 jupiterString = "jupiter"
